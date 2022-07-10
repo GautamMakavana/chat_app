@@ -1,0 +1,10 @@
+create npm project
+
+create index , css, js files
+
+install dependencies , express ,nodemon (dev dep.)
+
+create a express server
+
+
+
